@@ -37,7 +37,7 @@
 <li>What did you compare it to?</li>
 <li>Why did you make the selection?</li>
 
-<h1>Attracting</p>
+<h1>Attracting</h1>
 <p>Now that you have identified your preferred candidate through sourcing and filtering the pool of potentials, its now time to make an offer and have it accepted.  At the “attracting stage”, your objective is to make the final sales pitch to convince your potential new employee to join the team.  As follows are recommendations for to make this pitch convincing:</p>
 <li>Sell the perks and fringe benefits of your working environment—free food, flexible work environment, etc.</li>
 <li>Sell the total compensation packing—salary, benefits, time off, etc.</li>
