@@ -3,7 +3,7 @@
 
 <body>
 
-<title>Recruiting and Retaining Tech Talent</title>
+<h1>Recruiting and Retaining Tech Talent</h1>
 
 <h1>Introduction</h1>
 
@@ -47,7 +47,7 @@
 
 <p>All the while, its important that you are credible and demonstrate that you know the market and will be a good teammate or boss.</p>
 
-<h1>Retaining</p>
+<h1>Retaining</h1>
 <p>Great leaders not only attract great teammates but they are also able to retain them.  Luckily, it isn’t rocket science.  For the most part, your objective is to fulfill the promises you made in the “attraction stage” (see list above). Here are a few additional tips for retaining (and engaging) your top tech talent:</p>
 <li>Offer schedule of increasing compensation, bonuses, benefits, and non-financial incentives</li>
 <li>Encourage employee to develop a sense of ownership by engaging the employee as a problem-solver and challenge his/her technical skills</li>
