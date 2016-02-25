@@ -51,11 +51,8 @@
 <p>Great leaders not only attract great teammates but they are also able to retain them.  Luckily, it isn’t rocket science.  For the most part, your objective is to fulfill the promises you made in the “attraction stage” (see list above). Here are a few additional tips for retaining (and engaging) your top tech talent:</p>
 <li>Offer schedule of increasing compensation, bonuses, benefits, and non-financial incentives</li>
 <li>Encourage employee to develop a sense of ownership by engaging the employee as a problem-solver and challenge his/her technical skills</li>
-
 <li>Implement systems for regular feedback, professional growth plans and 1:1 meetings</li>
-
 <p>For more information about motivating employees, feel free to turn to “Drive” by Daniel Pink and “The Carrot Principle” by Gostick.</p>
-
 </body>
 </html>
 
